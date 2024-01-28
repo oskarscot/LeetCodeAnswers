@@ -1,5 +1,3 @@
-package scot.oskar.leetcode
-
 class AddTwoNumbers {
 
     class ListNode(var r: Int) {

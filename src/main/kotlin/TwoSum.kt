@@ -1,5 +1,3 @@
-package scot.oskar.leetcode
-
 class TwoSum {
 
     // Time complexity: O(n^2)
